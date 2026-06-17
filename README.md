@@ -1,4 +1,6 @@
-# final-review — Claude Code 考前突击 Skill
+# final-review — 考前突击 Skill
+
+```适用于主流Claude code、codex等主流agent
 
 期末复习 / 考前突击专用 skill，自动按剩余天数切换三种教学模式，零基础也能跟上。
 
